@@ -5,7 +5,7 @@ module.exports = function(grunt) {
         phonegapsplash: {
             all: {
                 src: 'raw.png',
-                dest: 'res'
+                dest: 'www/'
             }
         }
     });
