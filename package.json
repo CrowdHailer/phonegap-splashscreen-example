@@ -1,0 +1,25 @@
+{
+  "name": "phonegap-splashscreen-example",
+  "version": "0.0.0",
+  "description": "Generating device specific splashscreens for phonegap app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/CrowdHailer/phonegap-splashscreen-example.git"
+  },
+  "keywords": [
+    "phonegap",
+    "splashscreen",
+    "resolution",
+    "vector"
+  ],
+  "author": "Peter Saxton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CrowdHailer/phonegap-splashscreen-example/issues"
+  },
+  "homepage": "https://github.com/CrowdHailer/phonegap-splashscreen-example"
+}
