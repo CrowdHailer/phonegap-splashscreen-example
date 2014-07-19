@@ -5,7 +5,11 @@ module.exports = function(grunt) {
         phonegapsplash: {
             all: {
                 src: 'raw.png',
-                dest: 'www/'
+                dest: 'www/',
+                options: {
+                    layouts: ['portrait'],
+                    profiles: ['windows-phone', 'android', 'ios']
+                }
             }
         }
     });
